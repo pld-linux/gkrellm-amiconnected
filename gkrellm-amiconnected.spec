@@ -5,9 +5,9 @@ Version:	0.7.1
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://www.narx.net/~chrisk/amiconnected/%{name}-%{version}.tar.bz2
+Source0:	http://chrisk.homelinux.net/amiconnected/%{name}-%{version}.tar.bz2
 # Source0-md5	2ac683e4c948f5c44b9fd56b485ffc7b
-URL:		http://www.narx.net/~chrisk/amiconnected/
+URL:		http://chrisk.homelinux.net/amiconnected/
 BuildRequires:	gkrellm-devel >= 2.0
 BuildRequires:	gtk+2-devel
 Requires:	gkrellm >= 2.0
