@@ -10,6 +10,7 @@ Source0:	http://chrisk.homelinux.net/amiconnected/%{name}-%{version}.tar.bz2
 URL:		http://chrisk.homelinux.net/amiconnected/
 BuildRequires:	gkrellm-devel >= 2.0
 BuildRequires:	gtk+2-devel
+BuildRequires:	pkgconfig
 Requires:	gkrellm >= 2.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
