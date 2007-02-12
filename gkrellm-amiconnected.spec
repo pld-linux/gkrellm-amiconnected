@@ -1,5 +1,5 @@
 Summary:	Ping test plugin for GKrellM
-Summary(pl):	Wtyczka ping dla GKrellM
+Summary(pl.UTF-8):   Wtyczka ping dla GKrellM
 Name:		gkrellm-amiconnected
 Version:	0.7.1
 Release:	1
@@ -18,9 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Amiconnected is a GKrellM plugin that uses the standard ping binary
 to ping multiple IPs and display a summary of the results.
 
-%description -l pl
-Amiconnected jest wtyczk± GKrellM, która wykonuje test na hostach
-u¿ywaj±c standardowego programu ping.
+%description -l pl.UTF-8
+Amiconnected jest wtyczkÄ… GKrellM, ktÃ³ra wykonuje test na hostach
+uÅ¼ywajÄ…c standardowego programu ping.
 
 %prep
 %setup -q -n %{name}-0.7
