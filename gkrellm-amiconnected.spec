@@ -1,5 +1,5 @@
 Summary:	Ping test plugin for GKrellM
-Summary(pl.UTF-8):   Wtyczka ping dla GKrellM
+Summary(pl.UTF-8):	Wtyczka ping dla GKrellM
 Name:		gkrellm-amiconnected
 Version:	0.7.1
 Release:	1
